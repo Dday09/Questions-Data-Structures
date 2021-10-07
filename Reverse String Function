@@ -1,0 +1,3 @@
+void reverseString(vector& s) {
+reverse(s.begin(),s.end());
+}
